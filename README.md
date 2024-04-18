@@ -13,4 +13,5 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- I would like to learn how to make this webpage more responsive for other devices, such as mobile devices.
+- It would be more user friendly if we integrate customer feedback module and real time tracking of open tables.
